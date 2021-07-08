@@ -1,5 +1,3 @@
-
-
 function expressionCalculator(expr) {
     
     // Проверка на скобку с числом
